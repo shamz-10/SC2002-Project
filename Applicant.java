@@ -1,4 +1,7 @@
 // Applicant class
+
+import java.util.List;
+import java.util.ArrayList;
 public class Applicant extends User {
     private Project appliedProject;
     private String applicationStatus;
