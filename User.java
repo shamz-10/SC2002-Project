@@ -1,4 +1,6 @@
 // User class
+import java.util.List;
+
 public class User {
     protected String nric;
     protected String password;
