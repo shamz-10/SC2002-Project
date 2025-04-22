@@ -1,0 +1,3 @@
+ProjectName,Neighborhood,Type1,NumberOfUnitsType1,SellingPriceType1,Type2,NumberOfUnitsType2,SellingPriceType2,ApplicationOpeningDate,ApplicationClosingDate,Manager,OfficerSlot,Officers,Visible
+Acacia Breeze,Yishun,2-Room,0,350000.0,3-Room,3,450000.0,2022-01-01,2022-12-31,Jessica,3,true,Emily
+AAAAAAAA Breeze,Yishun,2-Room,10,350000.0,3-Room,0,450000.0,2025-01-01,2025-12-31,Michael,3,true,Emily
